@@ -1,0 +1,21 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.4.0
+B	sxc/var/folders/24/8k48jl6d249_n_qfxwsl6xvm0000gn/T/GMTjl_custom_sx.txtWS
+J	X
+JG	G0/45/14c
+JI	I-90/14c
+JM	M10
+JR	R14c
+JW	W14c
+JX	X-12/5
+Jx	x1
+JZ	Z6c
+Jz	z1i
+R	416/542/0/6.2831852
+X	12
+Y	1.7
+Z	Z
+p	200/30
+@G	25 0
+@L	2
+END
