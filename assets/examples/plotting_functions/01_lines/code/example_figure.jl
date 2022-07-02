@@ -13,10 +13,10 @@ lines(x,y,                           # The data
       figsize=(16,12),               # Fig size
       title="Double Snake")
 plot!(3.49, 0.97,                    # Coordinates where to plot symbol
-      symbol="kski_alpine/1.7",      # Fill patern file
+      custom_symbol=(name="ski_alpine", size=1.7),    # The skier symbol
       fill=:black, show=true)        # Fill the symbol in black
 end # hide
-mv(joinpath(tempdir(), "GMTjl_tmp.png"), joinpath(@OUTPUT, "example_14448994460914616845.png"), force=true);    # hide
+mv(joinpath(tempdir(), "GMTjl_tmp.png"), joinpath(@OUTPUT, "example_4160829281128897570.png"), force=true);    # hide
 GMT.isFranklin[1] = false    # hide
 GMT.IamModern[1]  = false    # hide
  
