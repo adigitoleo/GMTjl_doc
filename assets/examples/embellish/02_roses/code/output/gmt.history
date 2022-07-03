@@ -1,0 +1,17 @@
+# GMT 6 Session common arguments shelf
+BEGIN GMT 6.4.0
+B	afWSen
+J	M
+JG	G0/45/14c
+JM	M14c
+JR	R14c
+JW	W35/14c
+JX	X10
+Jx	x3
+Jz	z1i
+R	-8/8/-6/6
+X	a4.0176i
+Y	a0i
+Z	z
+@L	1
+END
